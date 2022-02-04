@@ -20,4 +20,3 @@ for m in md['media']:
 
 
 pprint(list(set(series)))
-print(len(series))
